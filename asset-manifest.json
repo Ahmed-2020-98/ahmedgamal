@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ahmedgamal/static/css/main.073c9b0a.css",
+    "main.js": "/ahmedgamal/static/js/main.e90fb3a3.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ahmedgamal/static/js/787.1ed0c42c.chunk.js",
+    "static/media/logo.svg": "/ahmedgamal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ahmedgamal/index.html",
+    "main.073c9b0a.css.map": "/ahmedgamal/static/css/main.073c9b0a.css.map",
+    "main.e90fb3a3.js.map": "/ahmedgamal/static/js/main.e90fb3a3.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ahmedgamal/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.e90fb3a3.js"
+  ]
+}
